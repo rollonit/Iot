@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "25168136880",
+    "firebase_url": "https://raspiot-56.firebaseio.com",
+    "project_id": "raspiot-56",
+    "storage_bucket": "raspiot-56.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:25168136880:android:0b096918bf035b63",
+        "android_client_info": {
+          "package_name": "com.example.iot.iot"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "25168136880-p68p5h4nctekijkj3vvdeh7g6trips08.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.iot.iot",
+            "certificate_hash": "026a3960643d8e099fd53091342ac0bcdd620c45"
+          }
+        },
+        {
+          "client_id": "25168136880-o95flaosfekk66u14u3s73ednmka2reu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBiA1PnhzYEjTeitc8lCequ6f7dKSWRHo4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "25168136880-o95flaosfekk66u14u3s73ednmka2reu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
