@@ -26,10 +26,10 @@ public class MainActivity extends AppCompatActivity {
         lightSwitch.setOnClickListener(new View.OnClickListener(){
             public void onClick(View v){
                 if(lightSwitch.isChecked()){
-                    myRef.setValue("1");
+                    myRef.setValue("1");//turns it on
                 }
                 else{
-                    myRef.setValue("0");
+                    myRef.setValue("0");//turns it off
                 }
             }
         });
